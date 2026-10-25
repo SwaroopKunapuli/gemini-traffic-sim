@@ -1,0 +1,8 @@
+{
+  "name": "AgentFlow Traffic Simulator",
+  "description": "Agent-based traffic simulation sandbox for designing road networks, intersections, and traffic signal rotation dynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
